@@ -21,4 +21,4 @@
 ✨ *"Aprender nunca é demais — cada linha de código é um passo para o futuro."*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode&show_icons=true&theme=radical)
