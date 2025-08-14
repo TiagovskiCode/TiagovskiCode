@@ -9,13 +9,7 @@
 ## 📈 Objetivos  
 - Melhorar as minhas skills em Front-End  
 - Criar projetos criativos e funcionais  
-- Explorar novas linguagens e frameworks  
-
----
-
-## 📫 Onde me encontrar  
-- GitHub: [github.com/TeuUser](https://github.com/TiagovskiCode)
-- Discord: Tiago.__.Teixeira
+- Explorar novas linguagens e frameworks
 
 ---
 ✨ *"Aprender nunca é demais — cada linha de código é um passo para o futuro."*
