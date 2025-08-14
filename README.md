@@ -1,18 +1,18 @@
-# 👋 Olá! Eu sou o Tiago Teixeira  
+# 👋 Hello! I'm Tiago Teixeira 
 
-💡 Tenho **17 anos** e atualmente estudo em **Timor-Leste**.  
-📚 Estou a aprender **HTML**, **CSS** e **JavaScript** — em breve, vou explorar **React**.  
-🚀 Sou extremamente curioso e adoro aprender coisas novas todos os dias.  
-
----
-
-## 📈 Objetivos  
-- Melhorar as minhas skills em Front-End  
-- Criar projetos criativos e funcionais  
-- Explorar novas linguagens e frameworks
+💡 I'm 17 years old and currently studying in Timor-Leste.
+📚 I'm learning HTML, CSS, and JavaScript — I'll be exploring React soon.
+🚀 I'm extremely curious and love learning new things every day.
 
 ---
-✨ *"Aprender nunca é demais — cada linha de código é um passo para o futuro."*
+
+## 📈 Goals
+- Improve my Front-End skills
+- Create creative and functional projects
+- Explore new languages and frameworks
+
+---
+✨ *"You can never learn too much — every line of code is a step into the future."*
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode&show_icons=true&theme=tokyonight)
