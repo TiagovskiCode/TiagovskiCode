@@ -1,19 +1,17 @@
-# 👋 Hello! I'm Tiago Teixeira 
+# Olá, eu sou o Tiago Teixeira! 👋
 
-💡 I'm 17 years old and currently studying in Timor-Leste. <br>
-📚 I'm learning HTML, CSS, and JavaScript — I'll be exploring React soon. <br>
-🚀 I'm extremely curious and love learning new things every day.
+🚀 **Desenvolvedor em Evolução | Entusiasta de Inteligência Artificial**
 
----
+Tenho 18 anos e estou atualmente focado em dominar o mundo da programação e explorar o potencial da Inteligência Artificial. Acredito que o código é a ferramenta perfeita para transformar ideias em realidade.
 
-## 📈 Goals
-- Improve my Front-End skills
-- Create creative and functional projects
-- Explore new languages and frameworks
+### 🛠️ O que ando a aprender & a usar:
+*   **Linguagens & Web:** HTML5, CSS3, JavaScript
+*   **Explorando:** Inteligência Artificial & Engenharia / Desenvolvimento de Sistemas
+*   **Ambientes:** Replit, GitHub, e sempre pronto para testar novas stacks.
 
 ---
 
-✨ *"You can never learn too much — every line of code is a step into the future."*
+💡 *“A melhor forma de prever o futuro é programando-o.”*
 
----
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode&show_icons=true&theme=tokyonight)
+📫 **Como me encontrar:** 
+Aquí no GitHub ou acompanha os meus repositórios abaixo!
