@@ -1,32 +1,35 @@
-# 🚀 Tiago's Developer Profile
+# Hi there, I'm Tiago 👋
 
-Hi there! Welcome to my GitHub profile. I'm a tech enthusiast and future **Mechanical Engineering** student, focusing on **Robotics and Automation**. 
-
-Currently, I'm building my foundational skills in programming and developing practical projects to apply engineering concepts and solve real-world problems.
+I am an aspiring **Mechanical Engineering** student with a core focus on **Robotics, Automation, and Systems Software**. Currently, I am actively honing my software engineering fundamentals to build efficient, hardware-aware applications and intelligent automation systems.
 
 ---
 
-### 🛠️ Technologies & Tools
+### 💻 Core Tech & Focus
 
-* **Languages Learning:** Python 🐍 | C++ ⚙️
-* **Development Environments:** PyCharm | VS Code
-* **Tools & Version Control:** Git & GitHub | Linux (WSL2)
-
----
-
-### 🎯 Current Goals
-
-- [ ] Master data structures and object-oriented programming in Python
-- [ ] Advance in C++ programming focused on hardware and robotics
-- [ ] Build practical automation projects and utility scripts
-- [ ] Prepare for my academic transition to higher education in Portugal
+* **Programming Languages:** Python | C++
+* **Developer Tools:** PyCharm | VS Code | Git & GitHub
+* **Environment & Infrastructure:** Linux (WSL2) | Command Line Architecture
 
 ---
 
-### 📬 Connect With Me
+### 🎯 Strategic Objectives
 
-- **GitHub:** [@TiagovskiCode](https://github.com/TiagovskiCode)
+- ⚙️ **Systems & Hardware:** Mastering C++ for low-level programming and robotics control.
+- 🐍 **Software Architecture:** Deepening knowledge in Data Structures, Algorithms, and OOP in Python.
+- 🤖 **Automation:** Developing clean, maintainable scripts and practical automation projects.
+- 🎓 **Academic Progression:** Preparing for advanced studies in Mechanical Engineering and Robotics in Portugal.
 
 ---
 
-> *"Step by step, line by line."*
+### 📊 Repository & Activity Overview
+
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagovskiCode&layout=compact&theme=dark)
+
+
+---
+
+### 📫 Let's Connect
+
+* **GitHub:** [@TiagovskiCode](https://github.com/TiagovskiCode)
+* **Status:** Open to collaboration on open-source Python/C++ scripts and robotics projects.
