@@ -21,14 +21,6 @@ I am an aspiring **Mechanical Engineering** student with a core focus on **Robot
 
 ---
 
-### 📊 Repository & Activity Overview
-
-![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagovskiCode&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagovskiCode&layout=compact&theme=dark)
-
-
----
-
 ### 📫 Let's Connect
 
 * **GitHub:** [@TiagovskiCode](https://github.com/TiagovskiCode)
