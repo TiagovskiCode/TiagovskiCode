@@ -1,17 +1,32 @@
-# Olá, eu sou o Tiago Teixeira! 👋
+# 🚀 Tiago's Developer Profile
 
-🚀 **Desenvolvedor em Evolução | Entusiasta de Inteligência Artificial**
+Hi there! Welcome to my GitHub profile. I'm a tech enthusiast and future **Mechanical Engineering** student, focusing on **Robotics and Automation**. 
 
-Tenho 18 anos e estou atualmente focado em dominar o mundo da programação e explorar o potencial da Inteligência Artificial. Acredito que o código é a ferramenta perfeita para transformar ideias em realidade.
-
-### 🛠️ O que ando a aprender & a usar:
-*   **Linguagens & Web:** HTML5, CSS3, JavaScript
-*   **Explorando:** Inteligência Artificial & Engenharia / Desenvolvimento de Sistemas
-*   **Ambientes:** Replit, GitHub, e sempre pronto para testar novas stacks.
+Currently, I'm building my foundational skills in programming and developing practical projects to apply engineering concepts and solve real-world problems.
 
 ---
 
-💡 *“A melhor forma de prever o futuro é programando-o.”*
+### 🛠️ Technologies & Tools
 
-📫 **Como me encontrar:** 
-Aquí no GitHub ou acompanha os meus repositórios abaixo!
+* **Languages Learning:** Python 🐍 | C++ ⚙️
+* **Development Environments:** PyCharm | VS Code
+* **Tools & Version Control:** Git & GitHub | Linux (WSL2)
+
+---
+
+### 🎯 Current Goals
+
+- [ ] Master data structures and object-oriented programming in Python
+- [ ] Advance in C++ programming focused on hardware and robotics
+- [ ] Build practical automation projects and utility scripts
+- [ ] Prepare for my academic transition to higher education in Portugal
+
+---
+
+### 📬 Connect With Me
+
+- **GitHub:** [@TiagovskiCode](https://github.com/TiagovskiCode)
+
+---
+
+> *"Step by step, line by line."*
