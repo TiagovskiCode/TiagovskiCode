@@ -43,5 +43,4 @@ Web development taught me to ship, debug and work with real clients. Next step: 
 ### 📫 Let's connect
 
 - 🌐 Studio: [theelevatewebstudios.com](https://theelevatewebstudios.com)
-- 💼 Portfolio: [tiagovskicode.github.io/Portfolio_TiagovskiCode](https://tiagovskicode.github.io/Portfolio_TiagovskiCode)
 - 🤝 Open to collaboration on Python/C++ scripts, robotics projects and web work
