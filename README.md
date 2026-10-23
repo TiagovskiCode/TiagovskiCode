@@ -42,5 +42,5 @@ Web development taught me to ship, debug and work with real clients. Next step: 
 
 ### 📫 Let's connect
 
-- 🌐 Studio: [theelevatewebstudios.com](https://theelevatewebstudios.com)
+- 🌐 Studio & work: [theelevatewebstudios.com](https://theelevatewebstudios.com)
 - 🤝 Open to collaboration on Python/C++ scripts, robotics projects and web work
