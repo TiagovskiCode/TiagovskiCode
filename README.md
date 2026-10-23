@@ -1,6 +1,6 @@
 # Hi, I'm Tiago 👋
 
-**Freelance web developer from Díli, Timor-Leste** · Aspiring **Robotics & Mechatronics Engineer**
+**Freelance web developer ** · Aspiring **Robotics & Mechatronics Engineer**
 
 I build fast, mobile-first websites for local businesses and social enterprises — and I'm using that same habit of shipping real things to grow into robotics, automation and systems software.
 
